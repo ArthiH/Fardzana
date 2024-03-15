@@ -1,0 +1,39 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 20px;
+}
+
+
+body{
+    min-height: 100vh;
+}
+.para{
+    font-size:0.5rem;
+    font-size: 10px;
+}
+.para_1{
+    font-size: 2em;
+}
+
+.card{
+    max-width: 300px;
+    width: 100%;
+    border: 2px solid red;
+    margin-inline: auto;
+    padding: 10px;
+    margin-block: 20px;
+}
+.input_box{
+    border: 2px solid green;
+    width: 15%;
+}
+
+input{
+    border: none;
+    outline: none;
+}
